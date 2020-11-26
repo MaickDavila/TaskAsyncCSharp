@@ -1,0 +1,10 @@
+C:\Users\Maick\source\repos\TareasAsincronasWF\TareasAsincronasWF\obj\Debug\TareasAsincronasWF.csprojAssemblyReference.cache
+C:\Users\Maick\source\repos\TareasAsincronasWF\TareasAsincronasWF\obj\Debug\TareasAsincronasWF.Form1.resources
+C:\Users\Maick\source\repos\TareasAsincronasWF\TareasAsincronasWF\obj\Debug\TareasAsincronasWF.Properties.Resources.resources
+C:\Users\Maick\source\repos\TareasAsincronasWF\TareasAsincronasWF\obj\Debug\TareasAsincronasWF.csproj.GenerateResource.cache
+C:\Users\Maick\source\repos\TareasAsincronasWF\TareasAsincronasWF\obj\Debug\TareasAsincronasWF.csproj.CoreCompileInputs.cache
+C:\Users\Maick\source\repos\TareasAsincronasWF\TareasAsincronasWF\bin\Debug\TareasAsincronasWF.exe.config
+C:\Users\Maick\source\repos\TareasAsincronasWF\TareasAsincronasWF\bin\Debug\TareasAsincronasWF.exe
+C:\Users\Maick\source\repos\TareasAsincronasWF\TareasAsincronasWF\bin\Debug\TareasAsincronasWF.pdb
+C:\Users\Maick\source\repos\TareasAsincronasWF\TareasAsincronasWF\obj\Debug\TareasAsincronasWF.exe
+C:\Users\Maick\source\repos\TareasAsincronasWF\TareasAsincronasWF\obj\Debug\TareasAsincronasWF.pdb
