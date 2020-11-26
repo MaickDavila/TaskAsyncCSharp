@@ -1,10 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -23,6 +17,9 @@ namespace TareasAsincronasWF
 
         }
 
+
+        //pordemos agregar async/await
+        //async void Ejecutar
         void Ejecutar(ProgressBar progressbar, TextBox label)
         {
             IProgress<int> progress = new Progress<int>(item => {
@@ -30,6 +27,7 @@ namespace TareasAsincronasWF
                 label.Text = $"{item}%";
             });
 
+            //await Task.Run...
             Task.Run(() => {
 
                 for (int i = 0; i < 100; i++)
